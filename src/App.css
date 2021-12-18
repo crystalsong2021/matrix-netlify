@@ -1,6 +1,6 @@
 @font-face {
   font-family: matrixFont;
-  /* src: url(./matrixFont.ttf); */
+  src: url(./matrixFont.ttf);
 
-  src: url(./burmeseFont.ttf);
+  /* src: url(./burmeseFont.ttf); */
 }
