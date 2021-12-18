@@ -141,6 +141,7 @@ const MatrixRain = props => {
 				justifyContent: 'center',
 			}}
 			ref={containerRef}>
+				{/* <p style={{color:'red', fontSize: 20, textAlign: 'center'}}>Happy Holiday RPP-30</p> */}
 			{new Array(streamCount).fill().map(_ => (
 				<RainStream height={containerSize?.height} />
 			))}
